@@ -8,6 +8,7 @@ Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glc42/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glc.professional42@gmail.com)
 <br></br>
+
 ## ⚙️ Some Tech and Tools I Know
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,6 +51,9 @@ Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![BitWarden](https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
 <br></br>
-<!--- ## 🚀 Quick Stats --->
 
+## 🚀 Quick Stats 
+
+![Top Langs](https://github-readme-stats-guiledo.vercel.app/api/top-langs/?username=guiledo&show_icons=true&theme=tokyonight)
+<!--- ![Guilherme's GitHub stats](https://github-readme-stats-guiledo.vercel.app/api?username=guiledo&show_icons=true&theme=tokyoknight)--->
 
