@@ -7,6 +7,7 @@ Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiledo)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glc42/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glc.professional42@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511980904699)
 <br></br>
 
 ## ⚙️ Some Tech and Tools I Know
@@ -55,5 +56,4 @@ Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://
 ## 🚀 Quick Stats 
 
 ![Top Langs](https://github-readme-stats-guiledo.vercel.app/api/top-langs/?username=guiledo&show_icons=true&theme=tokyonight)
-<!--- ![Guilherme's GitHub stats](https://github-readme-stats-guiledo.vercel.app/api?username=guiledo&show_icons=true&theme=tokyoknight)--->
-
+<!--- ![Anurag's GitHub stats](https://github-readme-stats-guiledo.vercel.app/api?username=guiledo&show_icons=true&theme=tokyonight) --->
