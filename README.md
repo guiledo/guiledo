@@ -2,7 +2,7 @@
 
 I'm a Computer Science **Grad Student at 🎓 [São Judas Tadeu University <img src="https://github.com/user-attachments/assets/29a6e612-9815-4c86-b001-4a4645a48992" height="16" alt="favicon-usjt"/>](https://www.usjt.br)**. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. 
 
-Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://pub-a692cbd978d740f4af91b3dcd6b3d39c.r2.dev/Guilherme-Ledo-Resume.pdf) to know more!
+Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://pub-a692cbd978d740f4af91b3dcd6b3d39c.r2.dev/Guilherme-Ledo-Resume_EN.pdf) to know more!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guiledo)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glc42/)
