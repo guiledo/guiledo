@@ -54,5 +54,5 @@ Check out my [Portfolio](https://guilhermeledo.vercel.app) and [Resume](https://
 
 ## 🚀 Quick Stats 
 
-![Top Langs](https://github-readme-stats-guiledo.vercel.app/api/top-langs/?username=guiledo&exclude_repo=dotfiles,cv-harvard_like-star&hide=html,css&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-guiledo.vercel.app/api/top-langs/?username=guiledo&exclude_repo=dotfiles,cv-harvard_like-star&hide=html,css,javascript&show_icons=true&theme=tokyonight)
 <!--- ![Anurag's GitHub stats](https://github-readme-stats-guiledo.vercel.app/api?username=guiledo&show_icons=true&theme=tokyonight) --->
